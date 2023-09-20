@@ -1,1 +1,3 @@
-# NewGlobe_Case_Study
+# Kenyan Schools Case Study
+
+
